@@ -15,4 +15,9 @@ public class TestScript : MonoBehaviour
     {
         
     }
+
+    public void Func()
+    {
+        Debug.Log("Func ");
+    }
 }
